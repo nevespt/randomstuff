@@ -6,17 +6,17 @@
   },
   {
     "id": "021018",
-    "name": "P3 (3025)",
+    "name": "P3 -> Pragal Estação",
     "group": "Costa de Caparica"
   },
   {
     "id": "020705",
-    "name": "P5 (3710)",
+    "name": "P5 -> Lisboa (Areeiro)",
     "group": "Costa de Caparica"
   },
   {
     "id": "029999",
-    "name": "P6 (3709)",
+    "name": "P6 -> Lisboa (Marquês de Pombal)",
     "group": "Costa de Caparica"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "id": "162003",
-    "name": "ITS P3 (IPS)",
+    "name": "ITS P3 -> IPS",
     "group": "Setúbal"
   },
   {
     "id": "162005",
-    "name": "ITS P5 (4725)",
+    "name": "ITS P5 -> Lisboa (Sete Rios)",
     "group": "Setúbal"
   },
   {
