@@ -1,10 +1,4 @@
 {
-  "wip": {
-    "schemaVersion": 1,
-    "label": "In Progress",
-    "message": "Turn Battle System",
-    "color": "white"
-  },
   "stable": {
     "schemaVersion": 1,
     "label": "Stable",
@@ -15,6 +9,12 @@
     "schemaVersion": 1,
     "label": "Development",
     "message": "0.0.1",
+    "color": "white"
+  },
+  "wip": {
+    "schemaVersion": 1,
+    "label": "In Progress",
+    "message": "Turn Battle System",
     "color": "white"
   }
 }
